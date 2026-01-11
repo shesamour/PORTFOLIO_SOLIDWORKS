@@ -1,5 +1,5 @@
 
-# DURCHGEFÜHRTE ARBEITEN:
+# DURCHGEFÜHRTE ARBEITEN
 
 • 3D-Modellierung einzelner Teile
 
@@ -13,7 +13,7 @@
   
 • Technische Analyse und Dokumentation der Baugruppe
 
-# VERWENDETE TOOLS:
+# VERWENDETE TOOLS
 
 • SolidWorks für Makers
 
