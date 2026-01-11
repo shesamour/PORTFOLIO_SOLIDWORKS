@@ -18,3 +18,5 @@
 • SolidWorks für Makers
 
 • offene Internetquellen für Referenzen
+
+• Norm- und Herstellerkataloge nach DIN/ISO (öffentlich zugängliche Quellen)
