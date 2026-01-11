@@ -4,7 +4,7 @@
 
 • Schwingungsdämpfer: zwei Gummibuchsen
 
-• Befestigungssatz: Set Bolt-Nut-Pi
+• Befestigungssatz: Set Bolt-Nut-Pin
 
 
 # KONSTRUKTIVE EIGENFERTIGUNGSTEILE:
