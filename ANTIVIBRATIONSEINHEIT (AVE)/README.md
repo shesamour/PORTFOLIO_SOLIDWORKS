@@ -12,7 +12,7 @@
 
 • Technische Zeichnungen
   
-• Vorbereitung der Berechnungsgrundlagen
+• Analyse und Vorbereitung der Berechnungsgrundlagen (Dokumentation)
 
 ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ VERWENDETE TOOLS:
 
