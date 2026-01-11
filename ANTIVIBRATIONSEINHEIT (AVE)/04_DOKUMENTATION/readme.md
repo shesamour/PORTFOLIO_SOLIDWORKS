@@ -24,3 +24,10 @@
 • Oberflächenrauheit: Ra 6,3 für Basisflächen; Ra 3,2 für Kontakt- und Funktionsflächen der zu fertigenden Teile
 
 • Form- und Lagetoleranzen nach ISO 2768-mK
+
+⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ MATERIAL-/MASSEEIGENSCHAFTEN
+
+Die Materialien für die zu fertigenden Komponenten sind in der Referenz angegeben.
+
+<img width="827" height="321" alt="изображение" src="https://github.com/user-attachments/assets/fed0e5ef-82e5-4322-b4c2-4825b92b8388" />
+
