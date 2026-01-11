@@ -1,5 +1,5 @@
 Aus konstruktiven Gesichtspunkten wurden die Werkstoffe der Bauteile sowie die technischen Anforderungen für deren Ausführung festgelegt.
-Entsprechend den Anforderungen der geltenden Normen wurden im rechnerischen Teil der Arbeit folgende Punkte umgesetzt:
+Entsprechend den Anforderungen der geltenden Normen (GOST) wurden im rechnerischen Teil der Arbeit folgende Punkte umgesetzt:
 
 ⠀⠀ • Auswahl und Begründung der Passung — H8/h7;
 
