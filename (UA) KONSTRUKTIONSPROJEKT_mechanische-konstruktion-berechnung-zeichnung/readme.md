@@ -18,5 +18,4 @@ Eine vollständige, normgerechte Konstruktionsdokumentation für eine mechanisch
         4) Werkstofffestlegung
     - Erstellung der Stückliste (BOM) und der zugehörigen technischen Dokumentation
 
-In the PDF files included, you can find the corresponding study calculations and technical drawings for the specified mechanical component.
 
