@@ -3,18 +3,18 @@
 **Aktualität:** Januar 2026
 
 ### Abgeschlossen: 
-- **Universitäre Berechnungsarbeit (UA)**  
-  Technische Dokumentation und CAD-gestützte Zeichnungen 
+
 #
     /(UA) KONSTRUKTIONSPROJEKT_mechanische-konstruktion-berechnung-zeichnung
+
+- **Universitäre Berechnungsarbeit (UA)** — Technische Dokumentation und CAD-gestützte Zeichnungen 
     
-- **Baugruppenerstellung**  
-  Antivibrationsvorrichtung (auch Antivibrationseinheit, Schwingungsdämpfungsanlage)
+
 #
     /ANTIVIBRATIONSEINHEIT (AVE)
+- **Baugruppenerstellung** — Antivibrationsvorrichtung (auch Antivibrationseinheit, Schwingungsdämpfungsanlage)
 
 ### In Bearbeitung
-- **Baugruppenerstellung**  
-  Gehäusedeckel des Reduzierventils
+- **Baugruppenerstellung** — Gehäusedeckel des Reduzierventils
 
 
