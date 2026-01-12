@@ -1,4 +1,3 @@
-Aus konstruktiven Gesichtspunkten wurden die Werkstoffe der Bauteile sowie die technischen Anforderungen für deren Ausführung festgelegt.
 Entsprechend den Anforderungen der geltenden Normen (GOST) wurden folgende Punkte umgesetzt:
 - Auswahl und Begründung der Passung — H8/h7
 - Berechnung der Toleranzen für Bohrungen und Abmessungen: Tₒ = 0,027 mm, Tᵥ = 0,021 mm
