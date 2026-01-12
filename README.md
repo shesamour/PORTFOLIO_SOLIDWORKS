@@ -1,4 +1,4 @@
-# SOLIDWORKS Projects
+# ✧ SOLIDWORKS Projects
 
 **Aktualität:** Januar 2026 
 
