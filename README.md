@@ -1,6 +1,6 @@
 # ✧ SOLIDWORKS Projects
 
-**Aktualität:** Januar 2026 
+**Stand:** Januar 2026 
 
 ### ✧ Abgeschlossen: 
 ```/(UA) KONSTRUKTIONSPROJEKT_mechanische-konstruktion-berechnung-zeichnung```
