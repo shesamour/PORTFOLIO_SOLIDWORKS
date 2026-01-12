@@ -1,6 +1,6 @@
 ## Einzelteile
 ### Normteile
-- Schraube (***Toolbox***), modifiziert: Querbohrung
+- Schraube (***Toolbox*** *), modifiziert: Querbohrung
 - Mutter (Normteil), modifiziert: Planvertiefung
 - Splint (Normteil)
 ### Fertigungsteile
