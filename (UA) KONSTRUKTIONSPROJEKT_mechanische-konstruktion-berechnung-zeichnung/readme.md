@@ -16,6 +16,7 @@ Eine vollständige, normgerechte Konstruktionsdokumentation für eine mechanisch
         2) Maß- und Form-/Lagetoleranzen
         3) Oberflächenangaben
         4) Werkstofffestlegung
-    - Erstellung der Stückliste (BOM) und der zugehörigen technischen Dokumentation
+   
+   - Erstellung der Stückliste (BOM) und der zugehörigen technischen Dokumentation
 
 
