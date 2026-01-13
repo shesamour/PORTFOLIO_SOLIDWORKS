@@ -6,7 +6,7 @@
 ### Fertigungsteile
 - Yoke
 - Base
-- Gushing(-s)
+- Bushing(-s)
 
 ## Baugruppe
 - Zusammengebauter Zustand
