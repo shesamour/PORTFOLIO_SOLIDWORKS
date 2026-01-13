@@ -4,5 +4,5 @@
 - Screenshots von 3D-Modellen der Bauteile
 - Screenshots der Baugruppe 
 ## /render 
-- Animation der Explosionsansicht
+- Animation der Explosionsansicht ```//in Bearbeitung```
 
